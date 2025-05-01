@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/home"
+        android:icon="@drawable/home_1"
+
+        android:title=""/>
+
+    <item android:id="@+id/calendar"
+        android:icon="@drawable/calendar_2"
+        android:title=""/>
+    <item android:id="@+id/note"
+        android:icon="@drawable/note_3"
+        android:title=""/>
+    <item
+        android:id="@+id/receipt"
+        android:icon="@drawable/receipt_4"
+        android:title=""/>
+<item android:id="@+id/layer"
+    android:icon="@drawable/layer_5"
+android:title=""    />
+
+</menu>
