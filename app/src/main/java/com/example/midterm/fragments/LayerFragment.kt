@@ -17,7 +17,7 @@ import com.google.android.material.tabs.TabLayoutMediator
 
 class LayerFragment : Fragment() {
 lateinit var binding: FragmentLayerBinding
-lateinit var fragmentManager: FragmentManager
+
 
 private val fList= listOf(
     approved.newInstance(),
